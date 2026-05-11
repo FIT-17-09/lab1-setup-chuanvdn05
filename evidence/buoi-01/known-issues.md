@@ -5,3 +5,5 @@ Ghi lại lỗi chưa xử lý được hoặc đã xử lý xong.
 | STT | Lỗi gặp phải | Lệnh gây lỗi | Cách đã thử | Trạng thái |
 |---:|---|---|---|---|
 | 1 | | | | |
+
+Từ lúc tải về sau khi làm các bước của bài yêu cầu thì em chưa gặp lỗi nào.
